@@ -1,8 +1,8 @@
 
 /*Numbers Activity 
 //variable for 2 numbers and stored 2 numbers.
-firstFavNum = 34;
-secondFavNum = 35;
+firstFavNum = 3;
+secondFavNum = 23;
 // variable for each operation 
 addition =(firstFavNum + secondFavNum);
 subtraction =(firstFavNum - secondFavNum);

@@ -8,8 +8,8 @@ lessthan = (firstFavNumb < secondFavNumb);
 greaterthan_or_equal_to = (firstFavNumb >= secondFavNumb); 
 strict_equality = (firstFavNumb === secondFavNumb);
 loose_equality = (firstFavNumb == secondFavNumb);
-strict_inequality = (firstFavNumb !== secondFavNumb);//  
-loose_ineguality = (firstFavNumb != secondFavNumb);/
+strict_inequality = (firstFavNumb !== secondFavNumb);
+loose_ineguality = (firstFavNumb != secondFavNumb);
 console.log(greaterthan);
 console.log(lessthan);
 console.log(greaterthan_or_equal_to);

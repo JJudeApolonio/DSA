@@ -1,5 +1,5 @@
 
-/*Numbers Activity 
+//Numbers Activity 
 //variable for 2 numbers and stored 2 numbers.
 firstFavNum = 3;
 secondFavNum = 23;

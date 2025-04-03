@@ -1,4 +1,4 @@
-/*strings 
+//strings 
 
 favActorfirstName = "Robin";
 favActorlastName = ""Padilla";

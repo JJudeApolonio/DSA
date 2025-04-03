@@ -1,4 +1,4 @@
-/*comparison or relational opereator
+//comparison or relational opereator
 
 firstFavNumb =5;
 secondFavNumb =69;
